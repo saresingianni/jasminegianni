@@ -1,0 +1,53 @@
+{
+    "name": "jasminegianni",
+    "displayName": "jasminegianni",
+    "description": "un tema oscuro per visual studio code",
+    "version": "0.0.1",
+    "publisher": "Saresin Gianni",
+    "icon": "images/logo.png",
+    "author": {
+        "name": "Saresin Gianni",
+        "email": "g.saresin@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maneeshaindrachapa/jasmine-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/maneeshaindrachapa/jasmine-vscode/issues",
+        "email": "maneeshaindrachapa@gmail.com"
+    },
+    "homepage": "https://github.com/maneeshaindrachapa/jasmine-vscode/blob/master/README.md",
+    "galleryBanner": {
+        "color": "#171c28",
+        "theme": "dark"
+    },
+    "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "Jasmine"
+    ],
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jasminegianni",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jasminegianni-color-theme.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "babel-eslint": "^10.0.3",
+        "eslint": "^6.3.0",
+        "eslint-config-prettier": "^6.2.0",
+        "prettier": "^1.18.2",
+        "vsce": "^1.66.0"
+    }
+}
