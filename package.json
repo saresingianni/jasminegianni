@@ -11,13 +11,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/maneeshaindrachapa/jasmine-vscode"
+        "url": "https://github.com/saresingianni/jasminegianni"
     },
     "bugs": {
-        "url": "https://github.com/maneeshaindrachapa/jasmine-vscode/issues",
+        "url": "https://github.com/maneeshaindrachapa/jasminegianni/issues",
         "email": "maneeshaindrachapa@gmail.com"
     },
-    "homepage": "https://github.com/maneeshaindrachapa/jasmine-vscode/blob/master/README.md",
+    "homepage": "https://github.com/maneeshaindrachapa/jasminegianni/blob/master/README.md",
     "galleryBanner": {
         "color": "#171c28",
         "theme": "dark"
