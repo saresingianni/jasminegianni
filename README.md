@@ -36,7 +36,7 @@ Leggi [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscod
 
 ## Teme delle Icone
 
-The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
+Il file icona thema lo trovi in questo link is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) on queste impostazioni:
 
 ```json
   "material-icon-theme.folders.color": "#8695b7",
