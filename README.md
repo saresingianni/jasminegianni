@@ -20,7 +20,7 @@
   Il tema minimo scuro viola per VS Code.
 </p>
 
-![demo](https://raw.githubusercontent.com/maneeshaindrachapa/jasmine-vscode/master/images/demo.jpeg)
+![demo](https://raw.githubusercontent.com/saresigiaani/jasminegianni/master/images/demogianni.png)
 
 ## Installazione per  Visual Studio  Code
 
